@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>CPUG March 2021 - DeepSpeech - @KathyReid</title>
+
+    <meta name="description" content="A quick introduction to DeepSpeech" />
+    <meta name="author" content="Kathy Reid <kathy@kathyreid.id.au>" />
+
+
+    <link href="css/impress-cpug.css" rel="stylesheet" />
+    <link href="css/impress-common.css" rel="stylesheet" />
+
+</head>
+
+<body>
+
+<div id="impress">
+
+
+  <div id="intro" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+      <h1><span class="highlight">#DeepSpeech</span> in < 5 mins<h1>
+      <h2 class="thin">open source sequence to sequence <br>speech recognition  <em>for everyone</em></h2>
+      <h4>&nbsp;</h4>
+      <h3>Kathy Reid <span class="highlight mixedCase">@KathyReid</span></h3>
+      <h4>PhD Candidate <span class="highlight mixedCase">@3AInstitute</span>, Australian National University & Open Source Voice Specialist <span class="highlight mixedCase">@Mozilla</span></h4>
+      <h4>Canberra Python User Group, 4th March 2021</h4>
+    </div>
+  </div>
+
+  <div id="2021" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">2021</h1>
+    </div>
+  </div>
+
+  <div id="population" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">7.85 billion<br><span class="highlight thin">people</span></h1>
+        <p class="attribution">Source: https://www.worldometers.info/world-population/</p>
+    </div>
+  </div>
+
+  <div id="languages" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">7139<br><span class="highlight thin">languages</span></h1>
+        <p class="attribution">Source: https://www.ethnologue.com/guides/how-many-languages</p>
+    </div>
+  </div>
+
+  <div id="language-coverage" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">≈200</h1>
+        <h2><span class="highlight thin">languages have speech to text support</span></h2>
+        <p class="attribution">Source: Internal Mozilla research</p>
+    </div>
+  </div>
+
+  <div id="language-focus" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">135 languages</h1>
+        <h2><span class="highlight thin">55 of which are variants of <br>English, Spanish or Arabic</span></h2>
+        <p class="attribution">Source: Internal Mozilla research</p>
+    </div>
+  </div>
+
+  <div id="Indigenous" class="step" data-x="0" data-y="0">
+  </div>
+
+  <div id="deepspeech-sowhat" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">so?</h1>
+        <h2><span class="highlight thin">what about DeepSpeech?</h2>
+    </div>
+  </div>
+
+  <div id="deepspeech-twofunctions" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">inference <span class="highlight thin">or</span> training</h1>
+    </div>
+  </div>
+
+  <div id="deepspeech-seq2seq" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">seq2seq</h1>
+        <h2><span class="highlight thin">does not use <em>phonemes</em></span></h2>
+    </div>
+  </div>
+
+  <div id="deepspeech-phonemes" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+      <table>
+      <thead>
+        <tr>
+          <th width="18%" rowspan="4">Vowels</th>
+          <th colspan="4">Monopthongs</th>
+          <th colspan="4">Dipthongs</th>
+        </tr>
+        <tr>
+          <td><span class="phoneme">iː</span><br>sh<span class="highlight-alt">ee</span>p</td>
+          <td><span class="phoneme">ɪ</span><br>sh<span class="highlight-alt">i</span>p</td>
+          <td><span class="phoneme">ʊ</span><br>g<span class="highlight-alt">oo</span>d</td>
+          <td><span class="phoneme">uː</span><br>sh<span class="highlight-alt">oo</span>t</td>
+          <td><span class="phoneme">ɪə</span><br>h<span class="highlight-alt">e</span>re</td>
+          <td colspan="3"><span class="phoneme">eɪ</span><br>w<span class="highlight-alt">ai</span>t</td>
+        </tr>
+        <tr>
+          <td><span class="phoneme">e</span><br>b<span class="highlight-alt">e</span>d</td>
+          <td><span class="phoneme">ə</span><br>teach<span class="highlight-alt">er</span></td>
+          <td><span class="phoneme">ɜː</span><br>b<span class="highlight-alt">i</span>rd</td>
+          <td><span class="phoneme">ɔː</span><br>d<span class="highlight-alt">oo</span>r</td>
+          <td><span class="phoneme">ʊə</span><br>t<span class="highlight-alt">ou</span>rist</td>
+          <td><span class="phoneme">ɔɪ</span><br>b<span class="highlight-alt">oy</span></td>
+          <td colspan="2"><span class="phoneme">əʊ</span><br>sh<span class="highlight-alt">o</span>w</td>
+        </tr>
+        <tr>
+          <td><span class="phoneme">æ</span><br>c<span class="highlight-alt">a</span>t</td>
+          <td><span class="phoneme">ʌ</span><br><span class="highlight-alt">u</span>p</td>
+          <td><span class="phoneme">ɑː</span><br>f<span class="highlight-alt">a</span>r</td>
+          <td><span class="phoneme">ɒ</span><br><span class="highlight-alt">o</span>n</td>
+          <td><span class="phoneme">eə</span><br>h<span class="highlight-alt">ai</span>r</td>
+          <td><span class="phoneme">aɪ</span><br>m<span class="highlight-alt">y</span></td>
+          <td colspan="2"><span class="phoneme">aʊ</span><br>c<span class="highlight-alt">o</span>w</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <th width="18%" rowspan="3">Consonants</th>
+          <td><span class="phoneme">p</span><br><span class="highlight-alt">p</span>ea</td>
+          <td><span class="phoneme">b</span><br><span class="highlight-alt">b</span>oat</td>
+          <td><span class="phoneme">d</span><br><span class="highlight-alt">t</span>ea</td>
+          <td><span class="phoneme">t</span><br><span class="highlight-alt">d</span>og</td>
+          <td><span class="phoneme">tʃ</span><br><span class="highlight-alt">ch</span>eese</td>
+          <td><span class="phoneme">dʒ</span><br><span class="highlight-alt">J</span>une</td>
+          <td><span class="phoneme">k</span><br><span class="highlight-alt">c</span>ar</td>
+          <td><span class="phoneme">g</span><br><span class="highlight-alt">g</span>o</td>
+        </tr>
+        <tr>
+          <td><span class="phoneme">f</span><br><span class="highlight-alt">f</span>ly</td>
+          <td><span class="phoneme">v</span><br><span class="highlight-alt">v</span>ideo<br></td>
+          <td><span class="phoneme">θ</span><br><span class="highlight-alt">th</span>ink</td>
+          <td><span class="phoneme">ð</span><br><span class="highlight-alt">th</span>is</td>
+          <td><span class="phoneme">s</span><br><span class="highlight-alt">s</span>ee</td>
+          <td><span class="phoneme">z</span><br><span class="highlight-alt">z</span>oo</td>
+          <td><span class="phoneme">ʃ</span><br><span class="highlight-alt">s</span>hall</td>
+          <td><span class="phoneme">ʒ</span><br>televi<span class="highlight-alt">s</span>ion</td>
+        </tr>
+        <tr>
+          <td><span class="phoneme">m</span><br><span class="highlight-alt">m</span>an</td>
+          <td><span class="phoneme">n</span><br><span class="highlight-alt">n</span>ow</td>
+          <td><span class="phoneme">ŋ</span><br>si<span class="highlight-alt">ng</span></td>
+          <td><span class="phoneme">h</span><br><span class="highlight-alt">h</span>at</td>
+          <td><span class="phoneme">l</span><br><span class="highlight-alt">l</span>ove</td>
+          <td><span class="phoneme">r</span><br><span class="highlight-alt">r</span>ed</td>
+          <td><span class="phoneme">w</span><br><span class="highlight-alt">w</span>et</td>
+          <td><span class="phoneme">j</span><br><span class="highlight-alt">y</span>es</td>
+        </tr>
+      </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div id="deepspeech-acousticmodel" class="step" data-x="0" data-y="0">
+  </div>
+
+  <div id="deepspeech-languagemodel" class="step" data-x="0" data-y="0">
+  </div>
+
+  <div id="seq2seq" class="step" data-x="0" data-y="0">
+  </div>
+
+  <div id="deepspeech-alphabet" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote"><pre>alphabet.txt</pre></h1>
+        <h2><span class="highlight thin">contains the characters to train for</em></span></h2>
+    </div>
+  </div>
+
+  <div id="deepspeech-alphabet-examples" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1>ⴰⵣⵓⵍ</h1>
+        <h1>ng’ombe</h1>
+        <h1>Cześć</h1>
+        <h1>Helô</h1>
+    </div>
+  </div>
+
+  <div id="kinyarwanda" class="step" data-x="0" data-y="0">
+  </div>
+
+  <div id="language-coverage-201" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+        <h1 class="quote">≈20<span class="highlight">1</span></h1>
+        <h2><span class="highlight thin">languages have speech to text support</span></h2>
+    </div>
+  </div>
+
+  <div id="thankyou" class="step" data-x="0" data-y="0">
+    <div class="step-container">
+      <h1 class="quote">Thank you</h1>
+    </div>
+  </div>
+
+
+</div>
+
+<div id="impress-toolbar"></div>
+
+<script src="js/impress.js"></script>
+<script>impress().init();</script>
+
+</body>
+</html>
