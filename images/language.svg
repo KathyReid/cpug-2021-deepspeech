@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -89,114 +89,114 @@
      transform="translate(-26.959399,-103.4988)">
     <g
        id="g279">
-      <text
-         xml:space="preserve"
-         id="text560"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562);fill:#0085ad;fill-opacity:1;stroke:none;"
-         transform="matrix(2.2006011,0,0,2.2006011,137.96435,-186.87393)"><tspan
-           x="33.332031"
-           y="141.47773"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">-&gt;
+      <g
+         id="g312">
+        <text
+           xml:space="preserve"
+           id="text560"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562);fill:#0085ad;fill-opacity:1;stroke:none;"
+           transform="matrix(2.2006011,0,0,2.2006011,137.96435,-186.87393)"><tspan
+             x="33.332031"
+             y="141.47773"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">-&gt;
 </tspan></tspan><tspan
-           x="33.332031"
-           y="154.82937"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">
+             x="33.332031"
+             y="154.82937"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">
 </tspan></tspan><tspan
-           x="33.332031"
-           y="168.18101"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">
+             x="33.332031"
+             y="168.18101"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">
 </tspan></tspan><tspan
-           style="visibility:hidden"
-           x="33.332031"
-           y="193.28437"><tspan
-             dx="0 3.5243216"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">(/</tspan><tspan
-             dx="2.9403796"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">ˈ</tspan><tspan
-             dx="3.524322"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">k</tspan><tspan
-             dx="5.8859262 5.8859262"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">ɔː</tspan><tspan
-             dx="3.5243216"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">r</tspan><tspan
-             dx="4.1185989"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">ɡ</tspan><tspan
-             dx="6.4646988 2.9403801 2.9403801 3.5243187 5.8859291 3.5243187"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">i/[5] </tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text560-2"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562-5);fill:#0085ad;fill-opacity:1;stroke:none;"
-         transform="matrix(2.2006011,0,0,2.2006011,-48.312954,-188.01512)"><tspan
-           x="33.332031"
-           y="141.60975"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">k + </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">ɔ</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">ː </tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">+ r + g + i</tspan><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">ː</tspan><tspan
-             style="fill:#0085ad">
+             style="visibility:hidden"
+             x="33.332031"
+             y="193.28437"><tspan
+               dx="0 3.5243216"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">(/</tspan><tspan
+               dx="2.9403796"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">ˈ</tspan><tspan
+               dx="3.524322"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">k</tspan><tspan
+               dx="5.8859262 5.8859262"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">ɔː</tspan><tspan
+               dx="3.5243216"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">r</tspan><tspan
+               dx="4.1185989"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">ɡ</tspan><tspan
+               dx="6.4646988 2.9403801 2.9403801 3.5243187 5.8859291 3.5243187"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Bold';fill:#0085ad">i/[5] </tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           id="text560-2"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562-5);fill:#0085ad;fill-opacity:1;stroke:none;"
+           transform="matrix(2.2006011,0,0,2.2006011,-48.312954,-188.01512)"><tspan
+             x="33.332031"
+             y="141.60975"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">k + </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">ɔ</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">ː </tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">+ r + g + i</tspan><tspan
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">ː</tspan><tspan
+               style="fill:#0085ad">
 </tspan></tspan><tspan
-           x="33.332031"
-           y="155.23396"><tspan
-             style="fill:#0085ad">
+             x="33.332031"
+             y="155.23396"><tspan
+               style="fill:#0085ad">
 </tspan></tspan><tspan
-           x="33.332031"
-           y="168.46308"><tspan
-             style="fill:#0085ad">
+             x="33.332031"
+             y="168.46308"><tspan
+               style="fill:#0085ad">
 </tspan></tspan><tspan
-           style="visibility:hidden"
-           x="33.332031"
-           y="193.28437"><tspan
-             dx="0 4.8058929"
-             style="fill:#0085ad">(/</tspan><tspan
-             dx="4.8058929"
-             style="fill:#0085ad">ˈ</tspan><tspan
-             dx="3.5243216"
-             style="fill:#0085ad">k</tspan><tspan
-             dx="6.2631636 5.2916508"
-             style="fill:#0085ad">ɔː</tspan><tspan
-             dx="2.9403782"
-             style="fill:#0085ad">r</tspan><tspan
-             dx="4.5165043"
-             style="fill:#0085ad">ɡ</tspan><tspan
-             dx="5.8859291 2.9042053 4.8058929 4.8058929 6.7282524 4.8058968"
-             style="fill:#0085ad">i/[5] </tspan></tspan></text>
-      <text
-         xml:space="preserve"
-         id="text560-2-4"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562-5-6);fill:#0085ad;fill-opacity:1;stroke:none;"
-         transform="matrix(2.782465,0,0,2.782465,152.81654,-269.50581)"><tspan
-           x="33.332031"
-           y="141.70189"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'">corgi
-</tspan></tspan><tspan
-           x="33.332031"
-           y="155.15517"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'">
-</tspan></tspan><tspan
-           style="visibility:hidden"
-           x="33.332031"
-           y="156.43236"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'">
-</tspan></tspan><tspan
-           style="visibility:hidden"
-           x="33.332031"
-           y="169.88564"><tspan
-             dx="0 3.2014458"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">(/</tspan><tspan
-             dx="3.7094276"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">ˈ</tspan><tspan
-             dx="3.5243216"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">k</tspan><tspan
-             dx="5.9689722 4.6973724"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">ɔː</tspan><tspan
-             dx="2.9403801"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">r</tspan><tspan
-             dx="4.101017"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">ɡ</tspan><tspan
-             dx="5.2916489 2.7781029 3.7094307 3.2067337 6.778595 3.3548965"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">i/[5] </tspan></tspan></text>
+             style="visibility:hidden"
+             x="33.332031"
+             y="193.28437"><tspan
+               dx="0 4.8058929"
+               style="fill:#0085ad">(/</tspan><tspan
+               dx="4.8058929"
+               style="fill:#0085ad">ˈ</tspan><tspan
+               dx="3.5243216"
+               style="fill:#0085ad">k</tspan><tspan
+               dx="6.2631636 5.2916508"
+               style="fill:#0085ad">ɔː</tspan><tspan
+               dx="2.9403782"
+               style="fill:#0085ad">r</tspan><tspan
+               dx="4.5165043"
+               style="fill:#0085ad">ɡ</tspan><tspan
+               dx="5.8859291 2.9042053 4.8058929 4.8058929 6.7282524 4.8058968"
+               style="fill:#0085ad">i/[5] </tspan></tspan></text>
+        <g
+           aria-label="corgi
+
+
+(/ˈkɔːrɡi/[5] "
+           transform="matrix(2.782465,0,0,2.782465,152.81654,-269.50581)"
+           id="text560-2-4"
+           style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562-5-6);fill:#0085ad;fill-opacity:1;stroke:none">
+          <g
+             id="g268">
+            <path
+               d="m 36.321813,136.12449 q 0.587374,0 1.05833,0.22754 0.470957,0.22225 0.76729,0.635 0.301624,0.41275 0.375707,0.97366 h -0.867831 q -0.04763,-0.28575 -0.222249,-0.52387 -0.169333,-0.23813 -0.44979,-0.381 -0.280458,-0.14287 -0.656165,-0.14287 -0.703789,0 -1.142996,0.50799 -0.439207,0.508 -0.439207,1.55575 0,0.9472 0.402165,1.5187 0.407457,0.56621 1.195913,0.56621 0.375707,0 0.650873,-0.14288 0.280457,-0.14816 0.44979,-0.38629 0.169333,-0.24341 0.216958,-0.51858 h 0.851955 q -0.06879,0.55033 -0.370415,0.9525 -0.301624,0.40216 -0.772581,0.62441 -0.465665,0.21696 -1.047747,0.21696 -0.735539,0 -1.307037,-0.32279 -0.566207,-0.32279 -0.888997,-0.9525 -0.322791,-0.6297 -0.322791,-1.54516 0,-0.85725 0.291041,-1.49753 0.296332,-0.64559 0.857247,-1.00542 0.566207,-0.35983 1.370537,-0.35983 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'"
+               id="path226" />
+            <path
+               d="m 42.026204,141.80772 q -0.756706,0 -1.322912,-0.32279 -0.566207,-0.32808 -0.878414,-0.95779 -0.312207,-0.6297 -0.312207,-1.53987 0,-0.85725 0.29104,-1.50283 0.291041,-0.64558 0.851956,-1.00012 0.566206,-0.35983 1.370537,-0.35983 0.756706,0 1.312329,0.33337 0.560915,0.32809 0.867831,0.96838 0.306916,0.64028 0.306916,1.56103 0,0.83608 -0.285749,1.47108 -0.280458,0.635 -0.836081,0.99483 -0.550332,0.35454 -1.365246,0.35454 z m 0,-0.77258 q 0.492124,0 0.830789,-0.24871 0.338666,-0.2487 0.51329,-0.71437 0.174625,-0.46566 0.174625,-1.10595 0,-0.58738 -0.153458,-1.05304 -0.153458,-0.47096 -0.492124,-0.74613 -0.333374,-0.27516 -0.873122,-0.27516 -0.497415,0 -0.841372,0.24871 -0.343957,0.24341 -0.523873,0.70908 -0.174625,0.46566 -0.174625,1.11654 0,0.57679 0.15875,1.04774 0.158749,0.47096 0.497415,0.74612 0.338665,0.27517 0.883705,0.27517 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'"
+               id="path228" />
+            <path
+               d="m 45.799134,141.70189 v -5.47157 h 0.93133 v 1.05304 q 0.137583,-0.39158 0.386291,-0.64558 0.248707,-0.25929 0.566206,-0.38629 0.322791,-0.127 0.666748,-0.127 0.121708,0 0.238124,0.0159 0.116417,0.0159 0.179916,0.0529 v 0.94721 q -0.07937,-0.037 -0.206374,-0.0476 -0.121708,-0.0159 -0.206374,-0.0159 -0.328083,-0.0212 -0.613832,0.0423 -0.285749,0.0582 -0.502706,0.20637 -0.216958,0.14817 -0.343958,0.39159 -0.121708,0.23812 -0.121708,0.58208 v 3.40253 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'"
+               id="path230" />
+            <path
+               d="m 52.207309,143.51163 q -1.291162,0 -2.010827,-0.3757 -0.714372,-0.37042 -0.714372,-1.06363 0,-0.29633 0.137583,-0.5027 0.137582,-0.21167 0.328082,-0.34925 0.190499,-0.13758 0.35454,-0.21696 0.164041,-0.0847 0.211666,-0.12171 -0.08996,-0.0529 -0.227541,-0.13229 -0.132291,-0.0794 -0.232832,-0.21166 -0.100542,-0.1323 -0.100542,-0.34396 0,-0.25929 0.243416,-0.47625 0.243416,-0.21696 0.719665,-0.32279 -0.48154,-0.24342 -0.751415,-0.64558 -0.269874,-0.40217 -0.269874,-0.87312 0,-0.52917 0.285749,-0.92075 0.291041,-0.39158 0.825498,-0.59796 0.534456,-0.21166 1.269996,-0.21166 0.534456,0 0.89958,0.127 0.365124,0.1217 0.677331,0.34924 0.08467,-0.037 0.264583,-0.11112 0.185208,-0.0794 0.407457,-0.16933 0.222249,-0.09 0.412749,-0.16934 0.195791,-0.0847 0.312207,-0.127 l -0.0053,0.90488 -0.957788,0.17991 q 0.07937,0.16934 0.126999,0.37042 0.05292,0.20108 0.05292,0.37571 0,0.48154 -0.253999,0.87312 -0.248708,0.39158 -0.756706,0.62441 -0.507999,0.23284 -1.269996,0.23284 -0.0635,0 -0.164041,0 -0.09525,-0.005 -0.164042,-0.0106 -0.560914,0.0159 -0.77258,0.127 -0.211666,0.10583 -0.211666,0.23813 0,0.15345 0.238124,0.21166 0.238124,0.0582 0.809622,0.10054 0.206375,0.0106 0.507999,0.0265 0.306915,0.0159 0.677331,0.0423 0.862539,0.0529 1.328204,0.43921 0.465665,0.38629 0.465665,1.04246 0,0.74612 -0.666748,1.21708 -0.666748,0.47095 -2.026702,0.47095 z m 0.174625,-0.6297 q 0.756706,0 1.158871,-0.22754 0.402165,-0.22755 0.402165,-0.68792 0,-0.32808 -0.248707,-0.53446 -0.243416,-0.21166 -0.746123,-0.24341 l -1.534578,-0.10054 q -0.206375,-0.0106 -0.428624,0.10583 -0.222249,0.11112 -0.380999,0.31221 -0.153457,0.20108 -0.153457,0.45508 0,0.43391 0.470956,0.67733 0.476249,0.24342 1.460496,0.24342 z m -0.169333,-3.90524 q 0.592665,0 0.952497,-0.27517 0.365124,-0.27516 0.365124,-0.81491 0,-0.55562 -0.365124,-0.84667 -0.359832,-0.29104 -0.952497,-0.29104 -0.597957,0 -0.968372,0.29634 -0.365124,0.29104 -0.365124,0.84137 0,0.51858 0.349249,0.80433 0.349249,0.28575 0.984247,0.28575 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'"
+               id="path232" />
+            <path
+               d="m 57.530691,136.23032 v 5.47157 h -0.947205 v -5.47157 z m 0.02117,-2.17487 v 1.016 h -1.000122 v -1.016 z"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'"
+               id="path234" />
+          </g>
+        </g>
+      </g>
     </g>
   </g>
 </svg>
