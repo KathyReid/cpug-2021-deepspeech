@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="297.31247mm"
-   height="28.599316mm"
-   viewBox="0 0 297.31248 28.599316"
+   width="285.99316mm"
+   height="26.311485mm"
+   viewBox="0 0 285.99317 26.311486"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
@@ -37,8 +37,8 @@
     <rect
        x="33.332348"
        y="131.82312"
-       width="103.3399"
-       height="51.806301"
+       width="28.224932"
+       height="14.729092"
        id="rect562-5-6" />
     <rect
        x="33.332348"
@@ -56,9 +56,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
      inkscape:cx="582.09507"
-     inkscape:cy="240.48921"
+     inkscape:cy="238.68769"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g279"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -86,7 +86,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-26.959399,-103.02215)">
+     transform="translate(-26.959399,-103.4988)">
     <g
        id="g279">
       <text
@@ -166,37 +166,37 @@
          xml:space="preserve"
          id="text560-2-4"
          style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect562-5-6);fill:#0085ad;fill-opacity:1;stroke:none;"
-         transform="matrix(2.782465,0,0,2.782465,168.69155,-269.50581)"><tspan
+         transform="matrix(2.782465,0,0,2.782465,152.81654,-269.50581)"><tspan
            x="33.332031"
-           y="141.60975"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Zilla Slab';-inkscape-font-specification:'Zilla Slab Light';fill:#0085ad">corgi</tspan><tspan
-             style="fill:#0085ad">
+           y="141.70189"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'">corgi
 </tspan></tspan><tspan
            x="33.332031"
-           y="154.83888"><tspan
-             style="fill:#0085ad">
-</tspan></tspan><tspan
-           x="33.332031"
-           y="168.068"><tspan
-             style="fill:#0085ad">
+           y="155.15517"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'">
 </tspan></tspan><tspan
            style="visibility:hidden"
            x="33.332031"
-           y="193.28437"><tspan
-             dx="0 4.8058929"
-             style="fill:#0085ad">(/</tspan><tspan
-             dx="4.8058929"
-             style="fill:#0085ad">ˈ</tspan><tspan
+           y="156.43236"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans'">
+</tspan></tspan><tspan
+           style="visibility:hidden"
+           x="33.332031"
+           y="169.88564"><tspan
+             dx="0 3.2014458"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">(/</tspan><tspan
+             dx="3.7094276"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">ˈ</tspan><tspan
              dx="3.5243216"
-             style="fill:#0085ad">k</tspan><tspan
-             dx="6.2631636 5.2916508"
-             style="fill:#0085ad">ɔː</tspan><tspan
-             dx="2.9403782"
-             style="fill:#0085ad">r</tspan><tspan
-             dx="4.5165043"
-             style="fill:#0085ad">ɡ</tspan><tspan
-             dx="5.8859291 2.9042053 4.8058929 4.8058929 6.7282524 4.8058968"
-             style="fill:#0085ad">i/[5] </tspan></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">k</tspan><tspan
+             dx="5.9689722 4.6973724"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">ɔː</tspan><tspan
+             dx="2.9403801"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">r</tspan><tspan
+             dx="4.101017"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">ɡ</tspan><tspan
+             dx="5.2916489 2.7781029 3.7094307 3.2067337 6.778595 3.3548965"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Public Sans';-inkscape-font-specification:'Public Sans';fill:#0085ad">i/[5] </tspan></tspan></text>
     </g>
   </g>
 </svg>
